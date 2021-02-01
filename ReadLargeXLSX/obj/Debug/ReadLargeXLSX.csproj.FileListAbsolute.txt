@@ -1,0 +1,9 @@
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Debug\ReadLargeXLSX.exe
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Debug\ReadLargeXLSX.pdb
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Debug\ExcelDataReader.dll
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Debug\ICSharpCode.SharpZipLib.dll
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Debug\ExcelDataReader.pdb
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Debug\ExcelDataReader.xml
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\obj\Debug\ReadLargeXLSX.csprojResolveAssemblyReference.cache
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\obj\Debug\ReadLargeXLSX.exe
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\obj\Debug\ReadLargeXLSX.pdb

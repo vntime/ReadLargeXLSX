@@ -1,0 +1,8 @@
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Release\ReadLargeXLSX.exe
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Release\ReadLargeXLSX.pdb
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Release\ExcelDataReader.dll
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Release\ICSharpCode.SharpZipLib.dll
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Release\ExcelDataReader.pdb
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\bin\Release\ExcelDataReader.xml
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\obj\Release\ReadLargeXLSX.exe
+e:\TailieuIT\C#\LearnC#\ReadLargeXLSX\ReadLargeXLSX\obj\Release\ReadLargeXLSX.pdb
